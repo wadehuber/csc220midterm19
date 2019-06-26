@@ -1,5 +1,5 @@
 /* CSC220 Midterm Exam */
-/* Summer 2017 */
+/* Summer 2019 */
 /* Make the changes indicated in the comments */
  
 #include <stdio.h>
